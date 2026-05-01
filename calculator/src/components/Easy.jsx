@@ -37,7 +37,7 @@ function Easy() {
               <div className="bg-black p-2 text-right">
         Result: {result}
       </div>
-      <h2 className="text-xl mb-4">Easy Calculator</h2>
+      <h2 className="text-xl mb-4">Simple Mode</h2>
 
       <input
         type="number"

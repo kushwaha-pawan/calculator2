@@ -18,14 +18,14 @@ function App() {
             onClick={() => setMode("easy")}
             className="w-60 py-4 rounded-xl bg-gradient-to-r from-green-400 to-green-600 hover:scale-105 transition text-lg font-semibold shadow-lg"
           >
-            Easy Calculator
+            Simple Mode
           </button>
 
           <button
             onClick={() => setMode("hard")}
             className="w-60 py-4 rounded-xl bg-gradient-to-r from-blue-400 to-blue-600 hover:scale-105 transition text-lg font-semibold shadow-lg"
           >
-            Hard Calculator
+            Smart Mode
           </button>
         </div>
       )}
